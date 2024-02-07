@@ -1,7 +1,7 @@
-###Introduction
+**Introduction**
 In March 2020, a global pandemic was declared by the World Health Organization due to the Covid-19 virus outbreak. As a result, the South African Government imposed a National Lockdown which prohibited individuals from leaving their homes except under strictly controlled circumtances to reduce the transmission of the virus. In that same year, according to the Global Peace Index (GPI) produced by the Institute for Economics and Peace (IEP) (https://www.visionofhumanity.org/wp-content/uploads/2020/10/GPI_2020_web.pdf), South Africa went up from the 127th safest country in the world to the 123rd. Though this ranking has been as a result of several known factors, a very prominent one is the Rate of Crime in the Country which has been quite rampant in the past few years and consumes as much as 19% of the Country's GDP which is about $ 67 billion per annum.(https://www.managementstudyguide.com/impact-of-crime-on-south-african-economy.htm).
 
-The Following will be achieved in this project:
+**The Following will be achieved in this project:**
 Analyse the changes in the crime distribution in South Africa. Has there been a significant change in South Africa's crime rate? If so, we determine the hypothetical reason behind it..
 
 Determine if there is a correlation between the total number of police stations in a province compared to the total amount of crimes and the total amount of crimes committed compared to the population and density of a Province
@@ -10,14 +10,14 @@ Determine if there is a correlation between the Covid-19 Lockdown and South Afri
 
 Create a Regression Model using Machine Learning to predict the expected crime rate without the influence of the Covid-19 Lockdown.
 
-###Research Question
+**Research Question**
 Is there a significance change in crime distributions in South Africa and does population and number of stations per province have effect on crime rate?
 What impact did the Covid-19 Lockdown Restriction have on the crime rate in South Africa?
 
-###Methodology
+**Methodology**
 A brief overview of the methodology used in this Notebook:
 
-###Load data
+**Load data**
 Reading data
 Data Wrangling
 Exploratory plots
@@ -28,19 +28,19 @@ Conclusion
 Hypothesis
 Will crime rate in South Africa increase in the next 5 years?
 
-###Data Description
+**Data Description**
 This Notebook Contains 3 datasets from the sources referenced below:
 
 SouthAfricaCrimeStats_v2.csv dataset was downloaded from Kaggle.com (https://Kaggle.com/slwessels/crime-statistics-for-south-africa) on the 15/03/2021. The dataset was published by Stephan Wessels on the 19/10/2016 and was updated by the publisher on the 17/11/2019. It was sourced by the publisher from the South African Police (SAPS) Official website http://www.saps.gov.za/resource_centre/publications/statistics/crimestats/2015/crime_stats.php in collaboration with StatsSA and contains South African crime statistics, broken down per province, station and crime type.
 
 2018_2019_crimestatistics.xlsx dataset was downloaded from (https://www.saps.gov.za/services) on the 19/04/2020
 
-###Observation
+**Observation**
 According to the information about the datasets, we have two csv files one for South African crime stats and Province populations. South African crime stats dataset consists of a mix of categorical and numerical data and has 14 columns and 30861 rows, the Province populations dataset has 4 columns and 9 rows.
 
 The crime categories in the South African Crime stats dataset are as follows:
 
-###Crime Categories
+**Crime Categories**
 Each category of crime which was recorded between the year 2005 - 2020:
 
 All theft not mentioned elsewhere
@@ -88,7 +88,7 @@ Culpable homicide
 Neglect and ill-treatment of children
 Public violence
 
-###Provinces
+**Provinces**
 The provinces we will be looking at crime are as follows:
 
 Gauteng
@@ -102,5 +102,5 @@ Free State
 Northern Cape
 
 
-###Limitation
+**Limitation**
 The South African Police Service regardless of being the major source of the crime statistics in the country still does not represent all crimes in the country as not all crimes are reported/recorded by the police due to several reason .i.e Lack of trust in the police by victims/communities, police officers taking victims/communities seriously depending on the type of crime committed, the race of who is reporting the crime or the area where it is committed etc. This means that the official numbers might be under-representing a particular category/the total crime rate in the country.
