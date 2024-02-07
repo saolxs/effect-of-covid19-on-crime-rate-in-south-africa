@@ -32,7 +32,6 @@ Conclusion
 Hypothesis
 Will crime rate in South Africa increase in the next 5 years?
 
-<br>
 #### Data Description
 
 This Notebook Contains 3 datasets from the sources referenced below:
@@ -40,15 +39,15 @@ This Notebook Contains 3 datasets from the sources referenced below:
 SouthAfricaCrimeStats_v2.csv dataset was downloaded from Kaggle.com (https://Kaggle.com/slwessels/crime-statistics-for-south-africa) on the 15/03/2021. The dataset was published by Stephan Wessels on the 19/10/2016 and was updated by the publisher on the 17/11/2019. It was sourced by the publisher from the South African Police (SAPS) Official website http://www.saps.gov.za/resource_centre/publications/statistics/crimestats/2015/crime_stats.php in collaboration with StatsSA and contains South African crime statistics, broken down per province, station and crime type.
 
 2018_2019_crimestatistics.xlsx dataset was downloaded from (https://www.saps.gov.za/services) on the 19/04/2020
-<br>
+
 
 #### Observation
-<br>According to the information about the datasets, we have two csv files one for South African crime stats and Province populations. South African crime stats dataset consists of a mix of categorical and numerical data and has 14 columns and 30861 rows, the Province populations dataset has 4 columns and 9 rows.<br>
+According to the information about the datasets, we have two csv files one for South African crime stats and Province populations. South African crime stats dataset consists of a mix of categorical and numerical data and has 14 columns and 30861 rows, the Province populations dataset has 4 columns and 9 rows.
 
 The crime categories in the South African Crime stats dataset are as follows:
 
 #### Crime Categories
-<br>Each category of crime which was recorded between the year 2005 - 2020:<br>
+Each category of crime which was recorded between the year 2005 - 2020:
 
 All theft not mentioned elsewhere
 Theft out of or from motor vehicle
@@ -94,7 +93,7 @@ Crimen Injuria
 Culpable homicide
 Neglect and ill-treatment of children
 Public violence
-<br>
+
 #### Provinces
 The provinces we will be looking at crime are as follows:
 <br>
