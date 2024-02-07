@@ -1,4 +1,4 @@
-###Introduction
+### Introduction
 <br>
 In March 2020, a global pandemic was declared by the World Health Organization due to the Covid-19 virus outbreak. As a result, the South African Government imposed a National Lockdown which prohibited individuals from leaving their homes except under strictly controlled circumtances to reduce the transmission of the virus. In that same year, according to the Global Peace Index (GPI) produced by the Institute for Economics and Peace (IEP) (https://www.visionofhumanity.org/wp-content/uploads/2020/10/GPI_2020_web.pdf), South Africa went up from the 127th safest country in the world to the 123rd. Though this ranking has been as a result of several known factors, a very prominent one is the Rate of Crime in the Country which has been quite rampant in the past few years and consumes as much as 19% of the Country's GDP which is about $ 67 billion per annum.(https://www.managementstudyguide.com/impact-of-crime-on-south-african-economy.htm).
 <br>
